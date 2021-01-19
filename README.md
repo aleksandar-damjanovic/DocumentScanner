@@ -1,3 +1,3 @@
 DocumentScanner 
 
-This is a document scanner from the videocam. 
+This is a videocam document scanner. 
